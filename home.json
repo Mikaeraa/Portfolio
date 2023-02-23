@@ -1,31 +1,31 @@
 {
   "studio-roman": {
+    "image": "projects/studio-roman/studio-roman-banner.png",
     "title": "Studio Roman",
-    "image": "assets/IMG_4.png",
     "type": "Logo Design"
   },
   "mediocre": {
-    "image": "assets/IMG_2.png",
+    "image": "projects/mediocre/mediocre-banner.png",
     "title": "Mediocre",
     "type": "Brand Design"
   },
   "fuego-hot-sauce": {
-    "image": "assets/IMG_1.png",
+    "image": "projects/fuego-hot-sauce/fuego-hot-sauce-banner.png",
     "title": "Fuego Hot Sauce",
     "type": "Packaging Design"
   },
   "posterboy": {
-    "image": "assets/IMG_3.png",
+    "image": "projects/posterboy/posterboy-banner.png",
     "title": "Posterboy",
     "type": "Website Design"
   },
   "auto-car-clinic": {
-    "image": "assets/IMG_1.png",
+    "image": "projects/auto-car-clinic/auto-car-clinic-banner.png",
     "title": "Auto Car Clinic",
     "type": "Logo Design"
   },
   "european-ceramics": {
-    "image": "assets/IMG_2.png",
+    "image": "projects/european-ceramics/european-ceramics-banner.png",
     "title": "European Ceramics",
     "type": "Website and Logo Re-design"
   }
