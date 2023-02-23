@@ -40,19 +40,5 @@
       "type":"Website and Logo Re-design",
       "color":"#8E44AD",
       "image":"projects/european-ceramics/european-ceramics-banner.png"
-   },
-   {
-      "id":"european-certified",
-      "title":"European Certified",
-      "type":"Website and Logo Re-design",
-      "color":"#37feb4",
-      "image":"projects/european-certified/european-certified-banner.png"
-   },
-   {
-      "id":"european-ceramicals",
-      "title":"European Ceramicals",
-      "type":"Website and Logo Re-design",
-      "color":"#27be38",
-      "image":"projects/european-ceramicals/european-ceramicals-banner.png"
    }
 ]
