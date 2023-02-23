@@ -4,14 +4,16 @@
       "title":"Studio Roman",
       "type":"Logo Design",
       "color":"#0D3360",
-      "image":"projects/studio-roman/banner.png"
+      "image":"projects/studio-roman/banner.png",
+      "seeMore":"See More"
    },
    {
       "id":"mediocre",
       "title":"Mediocre",
       "type":"Brand Design",
       "color":"#3A5A40",
-      "image":"projects/mediocre/banner.png"
+      "image":"projects/mediocre/banner.png",
+      "seeMore":"See More"
    },
    {
       "id":"fuego-hot-sauce",
@@ -25,7 +27,8 @@
       "title":"PosterBoy",
       "type":"Website Design",
       "color":"#DB772C",
-      "image":"projects/posterboy/banner.png"
+      "image":"projects/posterboy/banner.png",
+      "seeMore":"See More"
    },
    {
       "id":"auto-car-clinic",
@@ -39,6 +42,7 @@
       "title":"European Ceramics",
       "type":"Website and Logo Re-design",
       "color":"#E4EFF4",
-      "image":"projects/european-ceramics/banner.png"
+      "image":"projects/european-ceramics/banner.png",
+      "seeMore":"See More"
    }
 ]
