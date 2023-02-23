@@ -1,8 +1,9 @@
 {
   "studio-roman": {
     "image": "projects/studio-roman/studio-roman-banner.png",
+    "color": "#333",
     "title": "Studio Roman",
-    "type": "Logo Design"
+    "type": "Logo Design",
   },
   "mediocre": {
     "image": "projects/mediocre/mediocre-banner.png",
