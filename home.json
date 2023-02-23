@@ -4,41 +4,41 @@
       "title":"Studio Roman",
       "type":"Logo Design",
       "color":"#9B2335",
-      "image":"projects/studio-roman/studio-roman-banner.png"
+      "image":"projects/studio-roman/banner.png"
    },
    {
       "id":"mediocre",
       "title":"Mediocre",
       "type":"Brand Design",
       "color":"#27AE60",
-      "image":"projects/mediocre/mediocre-banner.png"
+      "image":"projects/mediocre/banner.png"
    },
    {
       "id":"fuego-hot-sauce",
       "title":"Fuego Hot Sauce",
       "type":"Packaging Design",
       "color":"#2471A3",
-      "image":"projects/fuego-hot-sauce/fuego-hot-sauce-banner.png"
+      "image":"projects/fuego-hot-sauce/banner.png"
    },
    {
       "id":"posterboy",
       "title":"PosterBoy",
       "type":"Website Design",
       "color":"#F1C40F",
-      "image":"projects/posterboy/posterboy-banner.png"
+      "image":"projects/posterboy/banner.png"
    },
    {
       "id":"auto-car-clinic",
       "title":"Auto Car Clinic",
       "type":"Vehicle Livery Design",
       "color":"#CB4335",
-      "image":"projects/auto-car-clinic/auto-car-clinic-banner.png"
+      "image":"projects/auto-car-clinic/banner.png"
    },
    {
       "id":"european-ceramics",
       "title":"European Ceramics",
       "type":"Website and Logo Re-design",
       "color":"#8E44AD",
-      "image":"projects/european-ceramics/european-ceramics-banner.png"
+      "image":"projects/european-ceramics/banner.png"
    }
 ]
