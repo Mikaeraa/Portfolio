@@ -20,7 +20,8 @@
       "title":"Fuego Hot Sauce",
       "type":"Packaging Design",
       "color":"#892920",
-      "image":"projects/fuego-hot-sauce/banner.png"
+      "image":"projects/fuego-hot-sauce/banner.png",
+      "seeMore":"See More"
    },
    {
       "id":"posterboy",
@@ -35,7 +36,8 @@
       "title":"Auto Car Clinic",
       "type":"Logo Design",
       "color":"#0087B4",
-      "image":"projects/auto-car-clinic/banner.png"
+      "image":"projects/auto-car-clinic/banner.png",
+      "seeMore":"See More"
    },
    {
       "id":"european-ceramics",
