@@ -29,7 +29,8 @@
       "type":"Website Design",
       "color":"#DB772C",
       "image":"projects/posterboy/banner.png",
-      "seeMore":"See More"
+      "seeMore":"See More",
+      "link":"projects.en.html"
    },
    {
       "id":"auto-car-clinic",
