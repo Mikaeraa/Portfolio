@@ -5,7 +5,8 @@
       "type":"Logo Design",
       "color":"#0D3360",
       "image":"projects/studio-roman/banner.png",
-      "seeMore":"See More"
+      "seeMore":"See More",
+      "link":"projects.en.html"
    },
    {
       "id":"mediocre",
@@ -13,7 +14,8 @@
       "type":"Brand Design",
       "color":"#3A5A40",
       "image":"projects/mediocre/banner.png",
-      "seeMore":"See More"
+      "seeMore":"See More",
+      "link":"projects.en.html"
    },
    {
       "id":"fuego-hot-sauce",
@@ -21,7 +23,8 @@
       "type":"Packaging Design",
       "color":"#892920",
       "image":"projects/fuego-hot-sauce/banner.png",
-      "seeMore":"See More"
+      "seeMore":"See More",
+      "link":"projects.en.html"
    },
    {
       "id":"posterboy",
@@ -38,7 +41,8 @@
       "type":"Logo Design",
       "color":"#0087B4",
       "image":"projects/auto-car-clinic/banner.png",
-      "seeMore":"See More"
+      "seeMore":"See More",
+      "link":"projects.en.html"
    },
    {
       "id":"european-ceramics",
@@ -46,6 +50,7 @@
       "type":"Website and Logo Re-design",
       "color":"#E4EFF4",
       "image":"projects/european-ceramics/banner.png",
-      "seeMore":"See More"
+      "seeMore":"See More",
+      "link":"projects.en.html"
    }
 ]
