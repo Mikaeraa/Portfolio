@@ -6,7 +6,7 @@
       "color":"#0D3360",
       "image":"projects/studio-roman/banner.png",
       "seeMore":"See More",
-      "link":"projects.en.html"
+      "projectLink":"projects.en.html"
    },
    {
       "id":"mediocre",
@@ -15,7 +15,7 @@
       "color":"#3A5A40",
       "image":"projects/mediocre/banner.png",
       "seeMore":"See More",
-      "link":"projects.en.html"
+      "projectLink":"projects.en.html"
    },
    {
       "id":"fuego-hot-sauce",
@@ -24,7 +24,7 @@
       "color":"#892920",
       "image":"projects/fuego-hot-sauce/banner.png",
       "seeMore":"See More",
-      "link":"projects.en.html"
+      "projectLink":"projects.en.html"
    },
    {
       "id":"posterboy",
@@ -33,7 +33,7 @@
       "color":"#DB772C",
       "image":"projects/posterboy/banner.png",
       "seeMore":"See More",
-      "link":"projects.en.html"
+      "projectLink":"projects.en.html"
    },
    {
       "id":"auto-car-clinic",
@@ -42,7 +42,7 @@
       "color":"#0087B4",
       "image":"projects/auto-car-clinic/banner.png",
       "seeMore":"See More",
-      "link":"projects.en.html"
+      "projectLink":"projects.en.html"
    },
    {
       "id":"european-ceramics",
@@ -51,6 +51,6 @@
       "color":"#E4EFF4",
       "image":"projects/european-ceramics/banner.png",
       "seeMore":"See More",
-      "link":"projects.en.html"
+      "projectLink":"projects.en.html"
    }
 ]
